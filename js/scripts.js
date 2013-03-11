@@ -30,11 +30,11 @@ $(function() {
 		
 	// nav hover function
 	function onHoverMenu(){
-		$(this).children('a:first-child').addClass('sub_hover')
+		$(this).children('a:first-child').addClass('sub_hover');
 		$(this).children('ul[class^="sub_nav"]').slideDown(300);
 	}
 	function offHoverMenu(){
-		$(this).children('a:first-child').removeClass('sub_hover')
+		$(this).children('a:first-child').removeClass('sub_hover');
 		$(this).children('ul[class^="sub_nav"]').fadeOut(100);
 	}
 	var openTier = {    
@@ -61,8 +61,8 @@ $(function() {
 					$(this).show();
 				}
 			});
-			$subNavParent.find('.open').removeClass('open');
-			$subNavParent.find('li').hoverIntent(openTier);
+			$('.open',$subNavParent).removeClass('open');
+			$('li',$subNavParent).hoverIntent(openTier);
 		}
 	}
 	
