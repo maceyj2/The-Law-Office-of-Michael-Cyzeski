@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+.icon-left-thin:before { content: '\2190'; } /* '←' */
+.icon-up-thin:before { content: '\2191'; } /* '↑' */
+.icon-right-thin:before { content: '\2192'; } /* '→' */
+.icon-down-thin:before { content: '\2193'; } /* '↓' */
+.icon-menu:before { content: '\2630'; } /* '☰' */
+.icon-cog:before { content: '\2699'; } /* '⚙' */
+.icon-mail:before { content: '\2709'; } /* '✉' */
+.icon-check:before { content: '\2713'; } /* '✓' */
+.icon-cancel:before { content: '\2715'; } /* '✕' */
+.icon-cancel-circled:before { content: '\2716'; } /* '✖' */
+.icon-cancel-squared:before { content: '\274e'; } /* '❎' */
+.icon-right:before { content: '\27a1'; } /* '➡' */
+.icon-left:before { content: '\2b05'; } /* '⬅' */
+.icon-up:before { content: '\2b06'; } /* '⬆' */
+.icon-down:before { content: '\2b07'; } /* '⬇' */
+.icon-list-add:before { content: '\e003'; } /* '' */
+.icon-list:before { content: '\e005'; } /* '' */
+.icon-left-circle:before { content: '\e4a1'; } /* '' */
+.icon-right-circle:before { content: '\e4a2'; } /* '' */
+.icon-up-circle:before { content: '\e4a3'; } /* '' */
+.icon-down-circle:before { content: '\e4a4'; } /* '' */
+.icon-help-circled:before { content: '\e704'; } /* '' */
+.icon-info-circled:before { content: '\e705'; } /* '' */
+.icon-down-open-big:before { content: '\e764'; } /* '' */
+.icon-left-open-big:before { content: '\e765'; } /* '' */
+.icon-right-open-big:before { content: '\e766'; } /* '' */
+.icon-up-open-big:before { content: '\e767'; } /* '' */
+.icon-suitcase:before { content: '\e78e'; } /* '' */
+.icon-user:before { content: '\f464'; } /* '' */
+.icon-users:before { content: '\f465'; } /* '' */
+.icon-briefcase:before { content: '\f4bc'; } /* '' */
+.icon-folder:before { content: '\f4c1'; } /* '' */
+.icon-attach:before { content: '📎'; } /* '\1f4ce' */
+.icon-phone:before { content: '\f4de'; } /* '' */
+.icon-search:before { content: '\f50d'; } /* '' */
+.icon-lock:before { content: '🔒'; } /* '\1f512' */
+.icon-hammer:before { content: '\f528'; } /* '' */

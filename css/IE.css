@@ -1,0 +1,13 @@
+#homepage .home_key_points li {
+	background: #FFF;
+	border: 1px solid lightgray;
+}
+#homepage .home_key_points a {
+	padding-left: 1.667em; /*20*/
+}
+#homepage .home_key_points .icon_outer {
+	border-radius: 0;
+	height: 100%;
+	left: -65px;
+	top: -2px;
+}

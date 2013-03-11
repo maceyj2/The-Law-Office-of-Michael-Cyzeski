@@ -1,0 +1,494 @@
+{
+  "name": "mcyzeski_law",
+  "glyphs": [
+    {
+      "search": [
+        "arrow",
+        "left"
+      ],
+      "code": 8592,
+      "uid": "8d8f4722d16e95290858eaf294d9d830",
+      "css": "left-thin",
+      "orig_css": "left-thin",
+      "orig_code": 8592,
+      "src": "entypo",
+      "from": 8592
+    },
+    {
+      "search": [
+        "arrow",
+        "up"
+      ],
+      "code": 8593,
+      "uid": "dbc97808cba7d0c135c7054e7a85fb86",
+      "css": "up-thin",
+      "orig_css": "up-thin",
+      "orig_code": 8593,
+      "src": "entypo",
+      "from": 8593
+    },
+    {
+      "search": [
+        "arrow",
+        "right"
+      ],
+      "code": 8594,
+      "uid": "ef3eda51383ce050517892df3fc05ffc",
+      "css": "right-thin",
+      "orig_css": "right-thin",
+      "orig_code": 8594,
+      "src": "entypo",
+      "from": 8594
+    },
+    {
+      "search": [
+        "arrow",
+        "down"
+      ],
+      "code": 8595,
+      "uid": "a30a32d49f80bb534c062ae1743ef433",
+      "css": "down-thin",
+      "orig_css": "down-thin",
+      "orig_code": 8595,
+      "src": "entypo",
+      "from": 8595
+    },
+    {
+      "search": [
+        "menu",
+        "list"
+      ],
+      "code": 9776,
+      "uid": "2cfb3f2b46b34a1790aec0aa846297b6",
+      "css": "menu",
+      "orig_css": "menu",
+      "orig_code": 9776,
+      "src": "entypo",
+      "from": 9776
+    },
+    {
+      "search": [
+        "settings",
+        "cog",
+        "gear",
+        "params"
+      ],
+      "code": 9881,
+      "uid": "bc64550dd022ce21604f97309b346cea",
+      "css": "cog",
+      "orig_css": "cog",
+      "orig_code": 9881,
+      "src": "entypo",
+      "from": 9881
+    },
+    {
+      "search": [
+        "mail",
+        "email"
+      ],
+      "code": 9993,
+      "uid": "e335adbc2d898c7d85d40c507796e7b4",
+      "css": "mail",
+      "orig_css": "mail",
+      "orig_code": 9993,
+      "src": "entypo",
+      "from": 9993
+    },
+    {
+      "search": [
+        "ok",
+        true,
+        "check",
+        "mark"
+      ],
+      "code": 10003,
+      "uid": "14017aae737730faeda4a6fd8fb3a5f0",
+      "css": "check",
+      "orig_css": "check",
+      "orig_code": 10003,
+      "src": "entypo",
+      "from": 10003
+    },
+    {
+      "search": [
+        "close",
+        "cancel",
+        "reject"
+      ],
+      "code": 10005,
+      "from": 10005,
+      "uid": "c709da589c923ba3c2ad48d9fc563e93",
+      "css": "cancel",
+      "orig_css": "cancel",
+      "orig_code": 10005,
+      "src": "entypo"
+    },
+    {
+      "search": [
+        "close",
+        "cancel",
+        "reject"
+      ],
+      "code": 10006,
+      "uid": "c759418c008e9562944080fee617fc76",
+      "css": "cancel-circled",
+      "orig_css": "cancel-circled",
+      "orig_code": 10006,
+      "src": "entypo",
+      "from": 10006
+    },
+    {
+      "search": [
+        "close",
+        "cancel",
+        "reject"
+      ],
+      "code": 10062,
+      "uid": "bf45c39702763f1803b550c36a0ceb12",
+      "css": "cancel-squared",
+      "orig_css": "cancel-squared",
+      "orig_code": 10062,
+      "src": "entypo",
+      "from": 10062
+    },
+    {
+      "search": [
+        "arrow",
+        "right"
+      ],
+      "code": 10145,
+      "uid": "9e67bfab0143d9511f8eef6897caeb88",
+      "css": "right",
+      "orig_css": "right",
+      "orig_code": 10145,
+      "src": "entypo",
+      "from": 10145
+    },
+    {
+      "search": [
+        "arrow",
+        "left"
+      ],
+      "code": 11013,
+      "uid": "6acd5cf005d48f96787350e72bd45688",
+      "css": "left",
+      "orig_css": "left",
+      "orig_code": 11013,
+      "src": "entypo",
+      "from": 11013
+    },
+    {
+      "search": [
+        "arrow",
+        "up"
+      ],
+      "code": 11014,
+      "uid": "43c4064ec1260d0e55c37e0467c75cbb",
+      "css": "up",
+      "orig_css": "up",
+      "orig_code": 11014,
+      "src": "entypo",
+      "from": 11014
+    },
+    {
+      "search": [
+        "arrow",
+        "down"
+      ],
+      "code": 11015,
+      "uid": "d5098cb09be5827a2911dbab5af49ad2",
+      "css": "down",
+      "orig_css": "down",
+      "orig_code": 11015,
+      "src": "entypo",
+      "from": 11015
+    },
+    {
+      "search": [
+        "add",
+        "list"
+      ],
+      "code": 57347,
+      "uid": "97bd5542ed3e143d2ee9b60e14487615",
+      "css": "list-add",
+      "orig_css": "list-add",
+      "orig_code": 57347,
+      "src": "entypo",
+      "from": 57347
+    },
+    {
+      "search": [
+        "list"
+      ],
+      "code": 57349,
+      "uid": "3626b3f3a0b284e7f4166b815719aece",
+      "css": "list",
+      "orig_css": "list",
+      "orig_code": 57349,
+      "src": "entypo",
+      "from": 57349
+    },
+    {
+      "search": [
+        "arrow",
+        "left"
+      ],
+      "code": 58529,
+      "uid": "a263473d2d406881ea08f991c1b38694",
+      "file": "arrow_left_alt1",
+      "css": "left-circle",
+      "orig_css": "left-circle",
+      "orig_code": 58529,
+      "src": "iconic",
+      "from": 58529
+    },
+    {
+      "search": [
+        "arrow",
+        "right"
+      ],
+      "code": 58530,
+      "uid": "ccee648b9e12a533f6957967e29ebdef",
+      "file": "arrow_right_alt1",
+      "css": "right-circle",
+      "orig_css": "right-circle",
+      "orig_code": 58530,
+      "src": "iconic",
+      "from": 58530
+    },
+    {
+      "search": [
+        "arrow",
+        "up"
+      ],
+      "code": 58531,
+      "uid": "55ba7d8f711ce265df7de4ab7f148e65",
+      "file": "arrow_up_alt1",
+      "css": "up-circle",
+      "orig_css": "up-circle",
+      "orig_code": 58531,
+      "src": "iconic",
+      "from": 58531
+    },
+    {
+      "search": [
+        "arrow",
+        "down"
+      ],
+      "code": 58532,
+      "uid": "524f670504958d3e32ef887b99d8aca2",
+      "file": "arrow_down_alt1",
+      "css": "down-circle",
+      "orig_css": "down-circle",
+      "orig_code": 58532,
+      "src": "iconic",
+      "from": 58532
+    },
+    {
+      "search": [
+        "help",
+        "question"
+      ],
+      "code": 59140,
+      "uid": "de9a631a7d18106aea1c89ba51b1990a",
+      "css": "help-circled",
+      "orig_css": "help-circled",
+      "orig_code": 59140,
+      "src": "entypo",
+      "from": 59140
+    },
+    {
+      "search": [
+        "info"
+      ],
+      "code": 59141,
+      "uid": "7e4164950ffa4990961958b2d6318658",
+      "css": "info-circled",
+      "orig_css": "info-circled",
+      "orig_code": 59141,
+      "src": "entypo",
+      "from": 59141
+    },
+    {
+      "search": [
+        "arrow",
+        "down"
+      ],
+      "code": 59236,
+      "uid": "289b5f92f23acf1059c93fbf401c1ad5",
+      "css": "down-open-big",
+      "orig_css": "down-open-big",
+      "orig_code": 59236,
+      "src": "entypo",
+      "from": 59236
+    },
+    {
+      "search": [
+        "arrow",
+        "left"
+      ],
+      "code": 59237,
+      "uid": "884cfc3e6e2d456dd2a2ca0dbb9e6337",
+      "css": "left-open-big",
+      "orig_css": "left-open-big",
+      "orig_code": 59237,
+      "src": "entypo",
+      "from": 59237
+    },
+    {
+      "search": [
+        "arrow",
+        "right"
+      ],
+      "code": 59238,
+      "uid": "004882ab2d5c418c5b2060e80596279b",
+      "css": "right-open-big",
+      "orig_css": "right-open-big",
+      "orig_code": 59238,
+      "src": "entypo",
+      "from": 59238
+    },
+    {
+      "search": [
+        "arrow",
+        "up"
+      ],
+      "code": 59239,
+      "uid": "0805cca616b3c12714f35af4d0912c10",
+      "css": "up-open-big",
+      "orig_css": "up-open-big",
+      "orig_code": 59239,
+      "src": "entypo",
+      "from": 59239
+    },
+    {
+      "search": [
+        "suitcase"
+      ],
+      "code": 59278,
+      "from": 59278,
+      "uid": "11dd26ebf6934bf750a9156b353d7f2d",
+      "css": "suitcase",
+      "orig_css": "suitcase",
+      "orig_code": 59278,
+      "src": "entypo"
+    },
+    {
+      "search": [
+        "profile",
+        "contact",
+        "user"
+      ],
+      "code": 62564,
+      "uid": "bbd66ef66bb8fa9edde54d9a90b89150",
+      "css": "user",
+      "orig_css": "user",
+      "orig_code": 62564,
+      "src": "entypo",
+      "from": 128100
+    },
+    {
+      "search": [
+        "users",
+        "contacts",
+        "friends"
+      ],
+      "code": 62565,
+      "uid": "ecf8edb95c3f45eb433b4cce7ba9f740",
+      "css": "users",
+      "orig_css": "users",
+      "orig_code": 62565,
+      "src": "entypo",
+      "from": 128101
+    },
+    {
+      "search": [
+        "briefcase"
+      ],
+      "code": 62652,
+      "uid": "9ea7cce5e08e5ac2c225fabf2e6dc353",
+      "css": "briefcase",
+      "orig_css": "briefcase",
+      "orig_code": 62652,
+      "src": "entypo",
+      "from": 128188
+    },
+    {
+      "search": [
+        "folder"
+      ],
+      "code": 62657,
+      "uid": "0ccb084ddeeae372673793ed0b45bb4a",
+      "css": "folder",
+      "orig_css": "folder",
+      "orig_code": 62657,
+      "src": "entypo",
+      "from": 128193
+    },
+    {
+      "search": [
+        "attach",
+        "clip"
+      ],
+      "code": 128206,
+      "uid": "44b9e75612c5fad5505edd70d071651f",
+      "css": "attach",
+      "orig_css": "attach",
+      "orig_code": 128206,
+      "src": "entypo",
+      "from": 128206
+    },
+    {
+      "search": [
+        "phone",
+        "telephone",
+        "call"
+      ],
+      "code": 62686,
+      "uid": "5854855e963044f93b15738a5bb27a29",
+      "css": "phone",
+      "orig_css": "phone",
+      "orig_code": 62686,
+      "src": "entypo",
+      "from": 128222
+    },
+    {
+      "search": [
+        "search",
+        "find"
+      ],
+      "code": 62733,
+      "uid": "7222571caa5c15f83dcfd447c58d68d9",
+      "css": "search",
+      "orig_css": "search",
+      "orig_code": 62733,
+      "src": "entypo",
+      "from": 128269
+    },
+    {
+      "search": [
+        "lock"
+      ],
+      "code": 128274,
+      "uid": "1a7104205ea96e6f40ac716d0ca72f21",
+      "css": "lock",
+      "orig_css": "lock",
+      "orig_code": 128274,
+      "src": "entypo",
+      "from": 128274
+    },
+    {
+      "search": [
+        "hammer",
+        "legal"
+      ],
+      "code": 62760,
+      "from": 128296,
+      "uid": "dec0ce0476433f7e49e096526cf89465",
+      "css": "hammer",
+      "orig_css": "hammer",
+      "orig_code": 62760,
+      "src": "fontawesome"
+    }
+  ]
+}
